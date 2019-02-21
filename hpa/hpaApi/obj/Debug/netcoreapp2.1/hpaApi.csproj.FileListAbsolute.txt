@@ -1,0 +1,14 @@
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.csprojAssemblyReference.cache
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.csproj.CoreCompileInputs.cache
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorAssemblyInfo.cache
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorAssemblyInfo.cs
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.AssemblyInfoInputs.cache
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.AssemblyInfo.cs
+C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.deps.json
+C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.runtimeconfig.json
+C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.runtimeconfig.dev.json
+C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.dll
+C:\jesse\projects\courses\init\hpa\hpaApi\bin\Debug\netcoreapp2.1\hpaApi.pdb
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.RazorTargetAssemblyInfo.cache
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.dll
+C:\jesse\projects\courses\init\hpa\hpaApi\obj\Debug\netcoreapp2.1\hpaApi.pdb
