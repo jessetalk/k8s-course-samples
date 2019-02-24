@@ -6,7 +6,10 @@ metadata:
   labels:
     name: hpa-api
 spec:
-  replicas: 1
+  strategy:
+    rollingUpdate:
+      maxSurge: 3
+  replicas: 10
   selector:
     matchLabels:
       name: hpa-api
