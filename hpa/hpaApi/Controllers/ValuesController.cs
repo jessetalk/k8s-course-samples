@@ -37,7 +37,7 @@ namespace hpaApi.Controllers
             Console.WriteLine("完成非并行计算,耗时(ms)"+watch.ElapsedMilliseconds);
             Console.WriteLine("性能比" + 100000d/watch.ElapsedMilliseconds);
            
-            return Ok();
+            return Ok("ok");
         }
 
         // GET api/values/5

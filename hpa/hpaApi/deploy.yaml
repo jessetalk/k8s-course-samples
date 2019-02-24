@@ -1,0 +1,45 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: hpa-api
+  namespace: k8s-demo
+  labels:
+    name: hpa-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: hpa-api
+  template:
+    metadata:
+      labels:
+        name: hpa-api
+    spec:
+      containers:
+      - name: hpa-api
+        image: 	registry.cn-hangzhou.aliyuncs.com/jessetalk/hap-api
+        resources: 
+          requests:
+            cpu: 200m
+            memory: 200Mi
+          limits: 
+            cpu: 1
+            memory: 500Mi
+        ports:
+        - containerPort: 80
+        imagePullPolicy: Always
+---
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: hpa-api
+  namespace: k8s-demo
+spec:
+  type: NodePort
+  ports:
+    - port: 80
+      targetPort: 80
+  selector:
+    name: hpa-api
+
