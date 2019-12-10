@@ -17,4 +17,4 @@ spec:
   volumes:
   - name: mongodb-data
     persistentVolumeClaim: 
-      claimName: mongodb-pvc
+      claimName: nfs-pvc
