@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("hpaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("12.4.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("12.4")]
 [assembly: System.Reflection.AssemblyProductAttribute("hpaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hpaApi")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("12.4.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

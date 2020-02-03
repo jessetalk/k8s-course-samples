@@ -17,6 +17,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;a&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "a",
@@ -28,7 +29,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -43,7 +45,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -58,7 +61,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -73,7 +77,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -88,7 +93,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -103,7 +109,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -118,7 +125,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -133,7 +141,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -148,7 +157,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -163,7 +173,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -178,7 +189,8 @@
                 "NameComparison": 1,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -196,7 +208,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Action"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -209,7 +222,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Controller"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -222,7 +236,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Area"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -235,7 +250,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Page"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -248,7 +264,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "PageHandler"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -261,7 +278,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Protocol"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -274,7 +292,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Host"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -287,7 +306,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Fragment"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -300,7 +320,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Route"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -313,7 +334,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "RouteValues"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -329,6 +351,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.TagHelper\" /> implementation targeting &lt;cache&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "cache",
@@ -350,7 +373,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Priority"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -363,7 +387,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryBy"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -376,7 +401,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByHeader"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -389,7 +415,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByQuery"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -402,7 +429,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByRoute"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -415,7 +443,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByCookie"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -428,7 +457,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByUser"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -441,7 +471,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresOn"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -454,7 +485,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresAfter"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -467,7 +499,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresSliding"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -480,7 +513,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Enabled"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -496,6 +530,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.TagHelper\" /> implementation targeting &lt;distributed-cache&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "distributed-cache",
@@ -507,7 +542,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -525,7 +561,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Name"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -538,7 +575,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryBy"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -551,7 +589,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByHeader"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -564,7 +603,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByQuery"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -577,7 +617,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByRoute"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -590,7 +631,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByCookie"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -603,7 +645,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "VaryByUser"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -616,7 +659,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresOn"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -629,7 +673,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresAfter"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -642,7 +687,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExpiresSliding"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -655,7 +701,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Enabled"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -671,6 +718,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;environment&gt; elements that conditionally renders\n            content based on the current value of <see cref=\"P:Microsoft.AspNetCore.Hosting.IHostingEnvironment.EnvironmentName\" />.\n            If the environment is not listed in the specified <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Names\" /> or <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Include\" />, \n            or if it is in <see cref=\"P:Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper.Exclude\" />, the content will not be rendered.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "environment",
@@ -692,7 +740,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Names"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -705,7 +754,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Include"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -718,7 +768,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Exclude"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -734,6 +785,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;button&gt; elements and &lt;input&gt; elements with\n            their <c>type</c> attribute set to <c>image</c> or <c>submit</c>.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "button",
@@ -745,7 +797,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -760,7 +813,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -775,7 +829,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -790,7 +845,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -805,7 +861,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -820,7 +877,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -835,7 +893,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -850,7 +909,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -865,7 +925,8 @@
                 "NameComparison": 1,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -880,14 +941,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-action",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -902,14 +965,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-controller",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -924,14 +989,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-area",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -946,14 +1013,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-page",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -968,14 +1037,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-page-handler",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -990,14 +1061,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-fragment",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1012,14 +1085,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-route",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1034,14 +1109,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-all-route-data",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1056,14 +1133,16 @@
                 "NameComparison": 0,
                 "Value": "image",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-route-",
                 "NameComparison": 1,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1078,14 +1157,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-action",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1100,14 +1181,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-controller",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1122,14 +1205,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-area",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1144,14 +1229,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-page",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1166,14 +1253,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-page-handler",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1188,14 +1277,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-fragment",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1210,14 +1301,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-route",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1232,14 +1325,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-all-route-data",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1254,14 +1349,16 @@
                 "NameComparison": 0,
                 "Value": "submit",
                 "ValueComparison": 1,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "asp-route-",
                 "NameComparison": 1,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1279,7 +1376,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Action"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1292,7 +1390,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Controller"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1305,7 +1404,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Area"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1318,7 +1418,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Page"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1331,7 +1432,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "PageHandler"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1344,7 +1446,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Fragment"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1357,7 +1460,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Route"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1370,7 +1474,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "RouteValues"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -1386,6 +1491,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;form&gt; elements.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "form",
@@ -1407,7 +1513,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Action"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1420,7 +1527,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Controller"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1433,7 +1541,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Area"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1446,7 +1555,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Page"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1459,7 +1569,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "PageHandler"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1472,7 +1583,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Antiforgery"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1485,7 +1597,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Fragment"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1498,7 +1611,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Route"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1511,7 +1625,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "RouteValues"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -1527,6 +1642,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;img&gt; elements that supports file versioning.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'src' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "img",
@@ -1538,14 +1654,16 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               },
               {
                 "Name": "src",
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1563,7 +1681,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Src"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1576,7 +1695,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "AppendVersion"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -1592,6 +1712,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;input&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "input",
@@ -1603,7 +1724,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1621,7 +1743,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1634,7 +1757,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Format"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1647,7 +1771,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "InputTypeName"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1660,7 +1785,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Name"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1673,7 +1799,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Value"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -1689,6 +1816,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;label&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "label",
@@ -1700,7 +1828,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1718,7 +1847,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -1734,6 +1864,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;link&gt; elements that supports fallback href paths.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'href' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "link",
@@ -1745,7 +1876,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1760,7 +1892,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1775,7 +1908,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1790,7 +1924,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1805,7 +1940,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1820,7 +1956,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1835,7 +1972,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1850,7 +1988,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1865,7 +2004,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -1883,7 +2023,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Href"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1896,7 +2037,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "HrefInclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1909,7 +2051,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "HrefExclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1922,7 +2065,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackHref"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1935,7 +2079,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "AppendVersion"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1948,7 +2093,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackHrefInclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1961,7 +2107,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackHrefExclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1974,7 +2121,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackTestClass"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -1987,7 +2135,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackTestProperty"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2000,7 +2149,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackTestValue"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2016,6 +2166,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;option&gt; elements.\n            </summary>\n            <remarks>\n            This <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> works in conjunction with <see cref=\"T:Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper\" />. It reads elements\n            content but does not modify that content. The only modification it makes is to add a <c>selected</c> attribute\n            in some cases.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "option",
@@ -2037,7 +2188,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Value"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2053,6 +2205,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            Renders a partial view.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "partial",
@@ -2064,7 +2217,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2082,7 +2236,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Name"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2095,7 +2250,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2108,7 +2264,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Model"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2121,7 +2278,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ViewData"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2137,6 +2295,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;script&gt; elements that supports fallback src paths.\n            </summary>\n            <remarks>\n            The tag helper won't process for cases with just the 'src' attribute.\n            </remarks>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "script",
@@ -2148,7 +2307,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2163,7 +2323,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2178,7 +2339,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2193,7 +2355,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2208,7 +2371,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2223,7 +2387,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2238,7 +2403,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2256,7 +2422,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Src"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2269,7 +2436,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "SrcInclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2282,7 +2450,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "SrcExclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2295,7 +2464,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackSrc"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2308,7 +2478,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "AppendVersion"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2321,7 +2492,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackSrcInclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2334,7 +2506,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackSrcExclude"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2347,7 +2520,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "FallbackTestExpression"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2363,6 +2537,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;select&gt; elements with <c>asp-for</c> and/or\n            <c>asp-items</c> attribute(s).\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "select",
@@ -2374,7 +2549,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2389,7 +2565,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2407,7 +2584,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2420,7 +2598,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Items"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2433,7 +2612,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Name"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2449,6 +2629,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting &lt;textarea&gt; elements with an <c>asp-for</c> attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "textarea",
@@ -2460,7 +2641,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2478,7 +2660,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2491,7 +2674,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "Name"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2507,6 +2691,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting any HTML element with an <c>asp-validation-for</c>\n            attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "span",
@@ -2518,7 +2703,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2536,7 +2722,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "For"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2552,6 +2739,7 @@
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
         "Documentation": "\n            <summary>\n            <see cref=\"T:Microsoft.AspNetCore.Razor.TagHelpers.ITagHelper\" /> implementation targeting any HTML element with an <c>asp-validation-summary</c>\n            attribute.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "div",
@@ -2563,7 +2751,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2581,7 +2770,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ValidationSummary"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2597,6 +2787,7 @@
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
         "Documentation": "\n            <summary>\n            A tag helper for prerendering JavaScript applications on the server.\n            </summary>\n        ",
         "TagOutputHint": null,
+        "CaseSensitive": false,
         "TagMatchingRules": [
           {
             "TagName": "*",
@@ -2608,7 +2799,8 @@
                 "NameComparison": 0,
                 "Value": null,
                 "ValueComparison": 0,
-                "Diagnostics": []
+                "Diagnostics": [],
+                "Metadata": {}
               }
             ],
             "Diagnostics": []
@@ -2626,7 +2818,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ModuleName"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2639,7 +2832,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "ExportName"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2652,7 +2846,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "CustomDataParameter"
-            }
+            },
+            "BoundAttributeParameters": []
           },
           {
             "Kind": "ITagHelper",
@@ -2665,7 +2860,8 @@
             "Diagnostics": [],
             "Metadata": {
               "Common.PropertyName": "TimeoutMillisecondsParameter"
-            }
+            },
+            "BoundAttributeParameters": []
           }
         ],
         "AllowedChildTags": [],
@@ -2676,8 +2872,9 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 800
   },
   "RootNamespace": "hpaApi",
-  "Documents": []
+  "Documents": [],
+  "SerializationFormat": "0.2"
 }

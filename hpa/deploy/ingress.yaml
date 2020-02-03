@@ -1,0 +1,28 @@
+apiVersion: networking.k8s.io/v1beta1
+kind: Ingress
+metadata:
+  name: hpaapi-ingress
+  namespace: k8s-demo
+  labels:
+    app: k8s-demo
+  annotations:
+    kubernetes.io/ingress.class: "nginx"
+    nginx.ingress.kubernetes.io/rewrite-target: /$2
+  generation: 1
+spec:
+  tls:
+    - hosts:
+      - ingress.jessetalk.cn
+      secretName: ingress-tls
+  rules:
+  - host: ingress.jessetalk.cn
+    http:
+      paths:
+      - path: /hpa(/|$)(.*)
+        backend:
+          serviceName: hpa-api
+          servicePort: 80
+      - path: /hpa2(/|$)(.*)
+        backend:
+          serviceName: hpa-api
+          servicePort: 80
